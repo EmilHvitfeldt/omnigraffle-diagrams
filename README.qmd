@@ -1,5 +1,7 @@
 ---
-format: md
+format: 
+  md:
+    toc: true
 ---
 
 # omnigraffle diagrams

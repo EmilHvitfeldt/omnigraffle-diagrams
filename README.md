@@ -1,4 +1,9 @@
 
+-   [omnigraffle diagrams](#omnigraffle-diagrams)
+    -   [Confusion Matrix and classification
+        metrics](#confusion-matrix-and-classification-metrics)
+    -   [recipes mappings](#recipes-mappings)
+
 # omnigraffle diagrams
 
 <!-- badges: start -->
