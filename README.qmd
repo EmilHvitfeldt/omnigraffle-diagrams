@@ -1,0 +1,24 @@
+---
+format: md
+---
+
+# omnigraffle diagrams
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+The goal of this repository is to have a central location of all the omnigraffle diagrams I have made.
+
+## Confusion Matrix and classification metrics
+
+![](diagrams/diagrams-confusion-matrix/confusion-matrix.png)
+
+![](diagrams/diagrams-confusion-matrix/confusion-matrix-accuracy.png)
+
+![](diagrams/diagrams-confusion-matrix/confusion-matrix-sensitivity.png)
+
+![](diagrams/diagrams-confusion-matrix/confusion-matrix-specificity.png)
+
+## recipes mappings
+
+![](diagrams/recipes-mappings/mappings.png)
