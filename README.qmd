@@ -1,10 +1,9 @@
 ---
+title: omnigraffle diagrams
 format: 
   md:
     toc: true
 ---
-
-# omnigraffle diagrams
 
 <!-- badges: start -->
 <!-- badges: end -->
